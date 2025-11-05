@@ -80,10 +80,10 @@
     "url": "https://development.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/development.westsidemarket.com.ico",
     "slug": "odoo-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5206,
@@ -91,16 +91,18 @@
     "timeWeek": 5896,
     "timeMonth": 5206,
     "timeYear": 5206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 1
+    }
   },
   {
     "name": "Odoo Staging",
     "url": "https://staging.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.westsidemarket.com.ico",
     "slug": "odoo-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +111,8 @@
     "timeWeek": 10867,
     "timeMonth": 9864,
     "timeYear": 9864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   }
 ]
